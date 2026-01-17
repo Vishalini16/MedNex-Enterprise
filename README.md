@@ -6,21 +6,21 @@ This project provides a unified platform for handling clinical and administrativ
 
 📌 Features
 
-🔐 Secure login with role-based access (Admin, Doctor, Nurse)
+ Secure login with role-based access (Admin, Doctor, Nurse)
 
-🧑‍⚕️ Patient registration and management
+ Patient registration and management
 
-👨‍⚕️ Doctor management with specialization and availability
+ Doctor management with specialization and availability
 
-📅 Appointment scheduling with conflict detection
+ Appointment scheduling with conflict detection
 
-🗂 Electronic Medical Records (EMR) storage
+ Electronic Medical Records (EMR) storage
 
-📧 Appointment confirmation and reminder notifications
+ Appointment confirmation and reminder notifications
 
-📊 Dashboard with analytics and statistics
+ Dashboard with analytics and statistics
 
-📄 Secure export of patient history (PDF)
+ Secure export of patient history (PDF)
 
 🛠 Tech Stack
 
