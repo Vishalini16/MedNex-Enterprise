@@ -9,7 +9,7 @@ MedNex is a modern Healthcare Management System designed to simplify hospital an
 ## 🚀 Project Overview
 
 MedNex helps healthcare institutions digitize and automate daily activities such as patient registration, record management, and monitoring. The application offers a clean interface for users and administrators to access data quickly and perform operations with ease. By using a full-stack approach, MedNex ensures scalability, performance, and reliable integration between frontend and backend services.
-
+ Local:   http://localhost:4200/
 ---
 
 ## ✨ Features
@@ -49,3 +49,4 @@ MedNex helps healthcare institutions digitize and automate daily activities such
 * Visual Studio Code
 
 ---
+
